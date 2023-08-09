@@ -5,8 +5,10 @@
 :root {
   --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
+  --global-navbar-bg-color: #{$grey-color-dark};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
+  --global-text-color-navbar: #{$grey-color-light};
   --global-theme-color: #{$purple-color};
   --global-hover-color: #{$purple-color};
   --global-hover-text-color: #{$white-color};
@@ -50,8 +52,10 @@
 html[data-theme='dark'] {
   --global-bg-color: #{$grey-color-dark};
   --global-code-bg-color: #{$code-bg-color-dark};
+  --global-navbar-bg-color: #{$grey-color-light};
   --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$grey-color-light};
+  --global-text-color-navbar: #{$black-color};
   --global-theme-color: #{$cyan-color};
   --global-hover-color: #{$cyan-color};
   --global-hover-text-color: #{$white-color};
