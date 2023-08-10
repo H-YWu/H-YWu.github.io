@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p></p>
-    <p>[Nanjing University](https://www.nju.edu.cn/)</p>
+    <p><a href="https://www.nju.edu.cn/">Nanjing University</a></p>
     <p>Nanjing, China</p>
 
 news: true  # includes a list of news items
