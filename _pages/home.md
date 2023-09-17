@@ -9,9 +9,9 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p></p>
-    <p><a href="https://www.nju.edu.cn/">Nanjing University</a></p>
-    <p>Nanjing, China</p>
+    <p>Room 317, Building of Computer Science and Technology</p>
+    <p><a href="https://www.nju.edu.cn/">Nanjing University</a> (Xianlin Campus)</p>
+    <p>163 Xianlin Road, Qixia District, Nanjing, Jiangsu 210023, China</p>
 
 news: true  # includes a list of news items
 latest_posts: false # includes a list of the newest posts
