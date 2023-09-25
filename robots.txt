@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://water-wood-hy.github.io/sitemap.xml
+Sitemap: https://H-YWu.github.io/sitemap.xml
