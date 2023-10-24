@@ -5,7 +5,7 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 2
-display_categories: [Simulation, Image]
+display_categories: [Simulation, Geometry Processing]
 horizontal: false
 ---
 
