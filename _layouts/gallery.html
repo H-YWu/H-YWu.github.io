@@ -9,13 +9,17 @@ layout: default
     <p class="post-description">{{ page.description }}</p>
   </header>
 
-  <h2>Gallery</h2>
   <div class="gallery">
+    {% assign unique_images = "" %}
     {% for image in site.static_files %}
       {% if image.path contains '/assets/img/gallery' %}
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}">
+        {% assign image_name = image.path | split: '/' | last %}
+        {% unless unique_images contains image_name %}
+          {% assign unique_images = unique_images | join: "|" | append: "|" | append: image_name %}
+          <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image_name }}" class="responsive-image">
+        {% endunless %}
       {% endif %}
     {% endfor %}
-  </div>
+  </div> 
 
 </div>
