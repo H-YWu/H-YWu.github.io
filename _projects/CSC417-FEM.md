@@ -8,19 +8,6 @@ category: Simulation
 related_publications:
 ---
 
-<!DOCTYPE html>
-<html>
-    <body style="text-align: center">
-        <h2>How to Add Video in HTML</h2>
-        <video width="500px" 
-               height="400px" 
-               controls="controls">
-        <source 
-                src=
-"https://www.youtube.com/watch?v=R1CgvmB3IOQ" 
-                type="video/mp4" />
-       </video>
-    </body>
-</html>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R1CgvmB3IOQ?si=1YlyFNPCT0IqWwnG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 You can find code and demos in [this repository](https://github.com/H-YWu/CSC417-assignments).

@@ -2,9 +2,5 @@
 layout: default
 title: Gallery
 permalink: /gallery/
-subtitle: 
+description: Photos, drawings, paintings and rendered images.
 ---
-
-Photos, drawings, paintings and rendered images.
-
-![](/assets/img/gallery/serapis.png)

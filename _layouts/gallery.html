@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<!-- page.html -->
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-description">{{ page.description }}</p>
+  </header>
+
+  <h2>Gallery</h2>
+  <div class="gallery">
+    {% for image in site.static_files %}
+      {% if image.path contains '/assets/img/gallery' %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}">
+      {% endif %}
+    {% endfor %}
+  </div>
+
+</div>
