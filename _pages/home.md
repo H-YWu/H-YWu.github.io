@@ -25,4 +25,4 @@ My research interests lie primarily in Computer Graphics, Physics Based Simulati
 
 Here is my [CV](/assets/pdf/cv.pdf).
 
-Before entering the world of computer science and computer graphics, I also studied economics, humanities, and art. If you are curious, some of my artwork is listed in the [gallery](https://h-ywu.github.io/gallery/).
+Before entering the world of computer science and computer graphics, I also studied economics, humanities, and art. If you are curious, some of my artwork are listed in the [gallery](https://h-ywu.github.io/gallery/).
