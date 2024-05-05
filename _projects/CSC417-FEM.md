@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Simple interactive mass-spring and FEM simulation
-description: Implementation of interactive simulation with a single object in mass-spring and FEM.
+title: Interactive FEM and Mass-Spring Simulation
+description: Simulate one volumetric/codimensional object interactively.
 img: assets/img/project_image/CSC417-FEM.png
 importance: 1
 category: Simulation

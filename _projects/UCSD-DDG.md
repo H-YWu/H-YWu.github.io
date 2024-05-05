@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Discrete Differential Geometry 
-description: Visualization of some discrete differential geometry algorithms using Houdini.
-img: assets/img/project_image/Laplacian_Armadillo.png
+description: Visualize some discrete differential geometry algorithms using Houdini.
+img: assets/img/project_image/Laplacian-Armadillo.png
 importance: 1
 category: Geometry 
 related_publications:
