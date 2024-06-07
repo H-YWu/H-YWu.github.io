@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Interactive FEM and Mass-Spring Simulation
-description: Simulate single volumetric/codimensional object interactively.
+title: Interactive Finite Element Method and Mass-Spring System
+description: Simulate single volumetric/codimensional object.
 img: assets/img/project_imgs/FEM-MS/teaser.png
 importance: 1
 category: Simulation
