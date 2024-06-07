@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Computer Science student at [Shandong University](https://www.sdu.edu.cn/).
 
-My research interests lie primarily in Computer Graphics, Physics Simulation, Geometry Processing, High Performance Computing and other related fields.
+My research interests involve Computer Graphics, Physics Simulation, Geometry Processing, High Performance Computing and other related fields.
 
 Here is my [CV](/assets/pdf/cv.pdf).
 
