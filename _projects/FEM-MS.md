@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Interactive FEM and Mass-Spring Simulation
-description: Simulate one volumetric/codimensional object interactively.
-img: assets/img/project_image/CSC417-FEM.png
+description: Simulate single volumetric/codimensional object interactively.
+img: assets/img/project_imgs/FEM-MS/teaser.png
 importance: 1
 category: Simulation
 related_publications:
