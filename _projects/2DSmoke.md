@@ -3,7 +3,7 @@ layout: page
 title: 2D Smoke Simulation 
 description: Simulate incompressible fluid in 2D MAC grid with semi-Lagrangian advection 
 img: assets/img/project_imgs/2DSmoke/teaser.png
-importance: 2
+importance: 3
 category: Simulation
 related_publications:
 ---
