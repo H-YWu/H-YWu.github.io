@@ -10,3 +10,4 @@ categories: graphics
 Summaries in PDF format:
 
 - [CWF: Consolidating Weak Features in Highquality Mesh Simplification & Globally Consistent Normal Orientation for Point Clouds by Regularizing the WindingNumber Field](/assets/pdf/Paper_Summary_CWF_and_GCNO.pdf)
+- [A Practical Walk-on-Boundary Method for Boundary Value Problems](/assets/pdf/Paper_Summary_WoBforBVPs.pdf)
