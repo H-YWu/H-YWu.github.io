@@ -1,14 +1,22 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - H-YWu 
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - H-YWu/gpytoolbox
+  - H-YWu/PositionBasedDynamics
+  - H-YWu/mpm
+  - H-YWu/darts-22
+  - H-YWu/3x3_SVD_CUDA
+  - H-YWu/2D-Smoke
+  - H-YWu/ddg-exercises
+  - H-YWu/Geometric-Shape-Modeling
+  - H-YWu/UCSD-DDG
+  - H-YWu/CSC417-a4-cloth-simulation
+  - H-YWu/CSC417-a3-finite-elements-3d
+  - H-YWu/CSC417-a2-mass-spring-3d
+  - H-YWu/CSC2549-a1-mass-spring-1d
+  - H-YWu/CMU15-418
+  - H-YWu/NumMathComp
+
