@@ -305,7 +305,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ['geometry-processing', 'cuda'] # these tags will be displayed on the front page of your blog
-display_categories: ['graphics', 'programming'] # these categories will be displayed on the front page of your blog
+display_categories: ['graphics', 'environment'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
