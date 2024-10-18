@@ -27,5 +27,5 @@ Fortunately, I am working as a remote research intern at [UT Dallas](https://www
 
 ---
 
-Before jumping into science and engineering, I studied art, humanities, and art. If you are curious, please have a look at the [gallery](/gallery/) for (part of) my artworks.
+Before jumping into science and engineering, I studied art and humanities. If you are curious, please have a look at the [gallery](/gallery/) for (part of) my artworks.
 
